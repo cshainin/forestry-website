@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/07/06/TrilliumLakeSunrise.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Data science and non-profit leadership
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
